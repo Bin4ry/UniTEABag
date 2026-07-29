@@ -90,6 +90,7 @@ https://unitree-firmware.oss-cn-hangzhou.aliyuncs.com/firmware/release/package_1
 https://unitree-firmware.oss-cn-hangzhou.aliyuncs.com/firmware/release/package_1.1.8.999_GO2_Air_1759213812822.upk
 https://unitree-firmware.oss-cn-hangzhou.aliyuncs.com/firmware/release/package_1.1.9.102_GO2_Edu_Max_Pro_X_1760083457690.upk
 https://unitree-firmware.oss-cn-hangzhou.aliyuncs.com/firmware/release/package_1.1.11.5_GO2_Edu_Max_Pro_X_1761128358872.upk
+https://unitree-firmware.oss-cn-hangzhou.aliyuncs.com/firmware/release/package_1.1.14.1_GO2_Air_1772504963955.upk
 https://firmware-cdn.unitree.com/firmware/release/package_1.1.15.1_GO2_Edu_Max_Pro_X_1778117748202.upk
 
 https://firmware-cdn.unitree.com/firmware/package_1.2.0.15_G1_Air_Edu_Pre-Edu_1732786334697-1732786575247.upk
